@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Pylons/colander/commit/4557c017658eb4f6a5dc289078af1a6f850f3f97",
       "git:hexsha": "4557c017658eb4f6a5dc289078af1a6f850f3f97",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T09:04:28.630029+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Pylons/colander/commit/c98d94ec45926ba1eb2f73ae72df511bf0149958",
